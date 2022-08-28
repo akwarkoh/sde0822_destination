@@ -65,3 +65,11 @@ h2{
     margin: 8px;
 
 }
+
+.mb-3{
+    position: relative;
+    width: 550px;
+    display: block;
+    margin: auto;
+    top: 50px;
+}
