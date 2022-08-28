@@ -73,3 +73,13 @@ h2{
     margin: auto;
     top: 50px;
 }
+
+.d-grid, .gap-2, .d-md-block{
+    position: relative;
+    top: 50px;
+}
+
+.btn, .btn-primary{
+    width: 550px;
+}
+
