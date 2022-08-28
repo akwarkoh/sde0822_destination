@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    height: 100vh;
+     width: auto;
+}
+ 
+h1, p{
+    text-align: center;
+}
+
+.flex-container{
+    border: 10px solid black;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    height: 100vh;
+    gap: 50px;
+    
+
+}
+
+.green_box{
+    /* width: 100%;
+    height: 75%;
+    margin-top: 0px; */
+    height: 30%;
+    margin: auto;
+    width: auto;
+    border: 5px solid greenyellow;
+}
+.red_box{
+    border: 5px solid red;
+    width: 700px;
+    height: 80%;
+    margin-top:5%;
+    margin-bottom: 3%;
+}
+
+
+.blue_box{
+    border: 5px solid blue;
+    width: 700px;
+    height: 80%;
+    margin-top: 5%;
+    margin-bottom: 0%;
+}
+
+.purple_box{
+    border: 3px solid purple;
+    /* padding: 15px; */
+    height: 10%;
+    margin: 2px 8px 8px 8px;
+
+    
+}
+
+.yellow_box{
+    border: 3px solid yellow;
+    padding-top: 10px;
+    height: 84%;
+    margin: 8px;
+
+
+
+}
